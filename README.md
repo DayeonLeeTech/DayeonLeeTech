@@ -31,6 +31,8 @@
 <h2>🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
-  <img align="left" alt="Dayeon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<br />
+<a href="mailto:YOUR_EMAIL@EXAMPLE.COM">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
