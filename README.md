@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dayeon, a <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">Cybersecurity Professional</a> 🛡️</h1>
+<h1>Hi, I'm Dayeon, a <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">IT Operations & Security Specialist</a> 🛡️</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -30,7 +30,7 @@
 
 <h2>🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+<a href="https://www.linkedin.com/in/dayeonlee1/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
