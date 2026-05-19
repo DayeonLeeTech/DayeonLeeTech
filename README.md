@@ -1,4 +1,5 @@
-<h1>Hi, I'm Dayeon, a <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">IT Operations & Security Specialist</a> 🛡️</h1>
+<h1>Hi, I'm Dayeon 👋<br>
+<span style="font-size: 0.6em; font-weight: normal; color: #555;">IT Operations & Security Specialist</span></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
