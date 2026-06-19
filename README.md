@@ -12,7 +12,8 @@
   - [Point-to-Site VPN Traffic Tunneling](https://github.com/DayeonLeeTech/azure-vpn-traffic-tunneling)
   - [Azure DNS & Network Infrastructure Configuration](https://github.com/DayeonLeeTech/azure-dns-network-infrastructure)
 
-- <b>Identity & Access Management (Active Directory)</b>
+- <b>Identity & Access Management (Active Directory & Intune)</b>
+  - [Enterprise Endpoint & Identity Security Lab (MD-102)](https://github.com/DayeonLeeTech/microsoft-365-endpoint-security-lab)
   - [Hybrid Identity: Azure Cloud AD Deployment](https://github.com/DayeonLeeTech/active-directory-azure-cloud-deployment)
   - [On-Premise AD Home Lab (VirtualBox & Windows Server)](https://github.com/DayeonLeeTech/active-directory-home-lab-VirtualBox)
 
